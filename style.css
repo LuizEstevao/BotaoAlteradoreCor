@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#assinatura{
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+  }
