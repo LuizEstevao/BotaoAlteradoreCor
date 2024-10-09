@@ -2,7 +2,7 @@
 Este é um projeto simples de página web que demonstra o uso de JavaScript para alterar dinamicamente a cor de fundo da página ao clicar em um botão.
 
 # Visão Geral
-A página contém um título na parte superior que exibe o nome "DevZiul" e um botão ao centro com o texto "Alterar Cor". Ao clicar no botão, o JavaScript altera a cor de fundo da página para uma cor gerada aleatoriamente.
+A página contém botão ao centro com o texto "Alterar Cor". Ao clicar no botão, o JavaScript altera a cor de fundo da página para uma cor gerada aleatoriamente.
 
 # Funcionalidades
 Assinatura: "DevZiul" está centralizado no topo da página.
